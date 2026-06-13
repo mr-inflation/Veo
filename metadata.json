@@ -1,0 +1,6 @@
+{
+  "name": "Veo Video Studio",
+  "description": "Generate videos with Google Veo, configure styles and resolutions, extend generated clips, and manage generated media in a sandbox player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
